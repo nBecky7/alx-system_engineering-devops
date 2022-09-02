@@ -1,1 +1,1 @@
-Owner of the group changes
+Change owner betty to guillaume
