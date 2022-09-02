@@ -1,1 +1,1 @@
-Write a script that adds execute permission
+Write a script that adds execution permission
