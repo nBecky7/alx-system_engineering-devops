@@ -1,1 +1,1 @@
-olleh’s mode
+ execute permission to all subdirectories
