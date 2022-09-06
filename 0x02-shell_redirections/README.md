@@ -1,1 +1,1 @@
-Write a shell script that creates a file
+Write a command that finds all empty files and directories
