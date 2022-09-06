@@ -1,1 +1,1 @@
-My first redirection
+Write a script that prints “Hello, World
