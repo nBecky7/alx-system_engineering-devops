@@ -1,1 +1,1 @@
-Create a script that takes a list of words as input
+Display lines containing the pattern “root”
