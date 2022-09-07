@@ -1,1 +1,1 @@
-Write a script that lists all the file
+Write a script that parses web servers logs
